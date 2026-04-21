@@ -42,7 +42,7 @@ services:
       dockerfile: Dockerfile
     container_name: ecommerce_frontend
     ports:
-      - "5173:80"
+      - "3000:80"
     depends_on:
       - backend
 
