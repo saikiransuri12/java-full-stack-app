@@ -30,7 +30,7 @@ docker-compose up --build
 
 | Service | URL |
 |---------|-----|
-| Frontend | http://localhost:5173 |
+| Frontend | http://localhost:3000 |
 | Backend API | http://localhost:8080/api |
 | PostgreSQL | localhost:5432 |
 
